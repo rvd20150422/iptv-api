@@ -1,19 +1,11 @@
 🕘️更新时间,#genre#
-2026-02-06 06:30:37,http://23.237.228.134/live5/CCTV7.m3u8
+2026-02-06 18:42:56,http://23.237.228.134/live5/CCTV7.m3u8
 
 📺央视频道,#genre#
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV-1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1
-CETV-1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
@@ -31,10 +23,10 @@ CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视,http://69.30.246.194/live/zjws.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -60,6 +52,7 @@ CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
 法治天地,http://218.78.179.62:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+法治天地,http://dassby.qqff.top:99/live/法治天地/index.m3u8
 法治天地,rtsp://115.153.245.70/PLTV/88888888/224/3221225607/iptv7994.smil
 法治天地,rtsp://115.153.254.81/PLTV/88888888/224/3221225607/iptv7994.smil
 法治天地,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225607/iptv7994.smil
@@ -84,11 +77,10 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 
 🎬电影频道,#genre#
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
-靖天映画,http://43.251.226.89:8080/play/841.m3u8
-靖天戏剧,http://43.251.226.89:8080/play/839.m3u8
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+龙祥电影,http://43.251.226.89:8080/play/678.m3u8
 东森洋片,http://43.251.226.89:8080/play/735.m3u8
 
 🎥咪咕直播,#genre#
@@ -107,12 +99,12 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 JJ斗地主,http://43.251.226.89:8080/play/1475.m3u8
 JJ斗地主,http://43.251.226.89:8080/play/1995.m3u8
@@ -130,6 +122,7 @@ JJ斗地主,http://43.251.226.89:8080/play/1995.m3u8
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
+新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
@@ -138,12 +131,11 @@ JJ斗地主,http://43.251.226.89:8080/play/1995.m3u8
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
-金鹰卡通,http://101.66.198.203:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 漫画解说,https://www.goodiptv.club/douyu/5907076
@@ -152,8 +144,8 @@ JJ斗地主,http://43.251.226.89:8080/play/1995.m3u8
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
 
 🎵音乐频道,#genre#
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
