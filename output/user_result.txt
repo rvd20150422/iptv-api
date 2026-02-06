@@ -1,11 +1,19 @@
 🕘️更新时间,#genre#
-2026-02-06 18:42:56,http://23.237.228.134/live5/CCTV7.m3u8
+2026-02-07 06:26:41,http://23.237.228.134/live5/CCTV7.m3u8
 
 📺央视频道,#genre#
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV-1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1
+CETV-1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
+CETV-1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
+CETV-1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
+CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
+CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
@@ -14,6 +22,11 @@ CETV-1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&d
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
+怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
+怀旧剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
+怀旧剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil
+怀旧剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226996/86128881.smil
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -23,16 +36,16 @@ CETV-1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&d
 
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
@@ -77,9 +90,18 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 
 🎬电影频道,#genre#
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+靖天映画,http://43.251.226.89:8080/play/841.m3u8
+靖天映画,http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true
+靖天映画,http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+靖天戏剧,http://43.251.226.89:8080/play/839.m3u8
+靖天戏剧,http://nmk.ioapk.com:5050/4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://118.233.28.52:50007/4gtv-4gtv058/index.m3u8?proxy=true
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
-无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 龙祥电影,http://43.251.226.89:8080/play/678.m3u8
 东森洋片,http://43.251.226.89:8080/play/735.m3u8
 
@@ -99,9 +121,9 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -110,7 +132,6 @@ JJ斗地主,http://43.251.226.89:8080/play/1475.m3u8
 JJ斗地主,http://43.251.226.89:8080/play/1995.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
@@ -120,6 +141,7 @@ JJ斗地主,http://43.251.226.89:8080/play/1995.m3u8
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
@@ -141,7 +163,6 @@ JJ斗地主,http://43.251.226.89:8080/play/1995.m3u8
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
-游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
