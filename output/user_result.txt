@@ -1,13 +1,13 @@
 🕘️更新时间,#genre#
-2026-05-25 21:08:12,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2026-05-26 07:06:02,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 📺央视频道,#genre#
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
+CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV-1,http://111.43.126.240:7777/hls/34/index.m3u8
 CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 CETV-1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
@@ -20,14 +20,31 @@ CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
+怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
+怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+怀旧剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
+怀旧剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil
+怀旧剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226996/86128881.smil
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -87,8 +104,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9e078ef10c1a9f8930d51d7f453315d3577b613eac76898b1e0965789f7010cd3f8a1bca3167ef6e625cb77fc2c575eec35c8d07aaff61dc4b79f75fc67ef667
+劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil
@@ -100,13 +117,14 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
@@ -116,8 +134,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
@@ -127,10 +144,11 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
+七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,https://live.metshop.top/huya/11601966
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
