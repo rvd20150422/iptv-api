@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-04 07:07:02,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+2026-07-04 19:32:59,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 📺央视频道,#genre#
 
@@ -24,8 +24,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
-七龙珠,https://live.metshop.top/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
