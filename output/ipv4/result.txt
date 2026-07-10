@@ -1,17 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-10 07:15:48,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-07-10 20:31:46,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV-1,http://120.76.248.139/live/bfgd/4200000135.m3u8
-CETV-1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
-CETV-1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 
 💰央视付费频道,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -24,7 +16,6 @@ CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
@@ -32,21 +23,15 @@ CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-吉林卫视,http://223.75.149.129:9906/tsfile/live/0116_1.m3u8?key=txiptv
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
-东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
 欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
 法治天地,http://dassby.qqff.top:99/live/法治天地/index.m3u8
@@ -93,6 +78,7 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 爱体育,rtsp://60.13.39.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 
@@ -117,6 +103,7 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 
 🎮游戏频道,#genre#
 
