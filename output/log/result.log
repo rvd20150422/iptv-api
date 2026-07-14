@@ -1,123 +1,127 @@
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2774 ms, Speed: 0.63 M/s, Resolution: None
-Name: CCTV-11, URL: http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-湖北-黄冈, ISP: 移动, Date: None, Delay: 10462 ms, Speed: 0.12 M/s, Resolution: 1920x1080
-Name: CCTV-12, URL: http://222.223.41.27:8888/hls/12/index.m3u8, IPv_Type: ipv4, Location: 中国-河北-沧州, ISP: 电信, Date: None, Delay: 10335 ms, Speed: 0.52 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://120.76.248.139/live/bfgd/4200000135.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 2468 ms, Speed: 1.02 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 10368 ms, Speed: 0.07 M/s, Resolution: 1920x1080
-Name: 文化精品, URL: http://107.150.60.122/live/ysjp.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 1118 ms, Speed: 4.23 M/s, Resolution: 1920x1080
-Name: 文化精品, URL: http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1122 ms, Speed: 4.21 M/s, Resolution: 1920x1080
-Name: 央视台球, URL: http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10828 ms, Speed: 1.03 M/s, Resolution: 1920x1080
-Name: 风云音乐, URL: http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 751 ms, Speed: 5.04 M/s, Resolution: 1920x1080
-Name: 第一剧场, URL: http://120.198.95.220:9901/tsfile/live/1071_1.m3u8, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 744 ms, Speed: 0.02 M/s, Resolution: 1920x1080
-Name: 风云剧场, URL: http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 6562 ms, Speed: 0.62 M/s, Resolution: 1920x1080
-Name: 怀旧剧场, URL: http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 7480 ms, Speed: 0.58 M/s, Resolution: 1920x1080
-Name: 女性时尚, URL: http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10532 ms, Speed: 0.54 M/s, Resolution: 1920x1080
-Name: 高尔夫网球, URL: http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10437 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: 电视指南, URL: http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10816 ms, Speed: 0.34 M/s, Resolution: 1920x1080
-Name: 世界地理, URL: http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 741 ms, Speed: 5.71 M/s, Resolution: 1920x1080
-Name: 兵器科技, URL: http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 2199 ms, Speed: 0.35 M/s, Resolution: 1920x1080
-Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 85 ms, Speed: 1.10 M/s, Resolution: None
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 88 ms, Speed: 1.10 M/s, Resolution: None
-Name: 重庆卫视, URL: http://60.10.139.113:8801/hls/31/index.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 联通, Date: None, Delay: 10012 ms, Speed: 0.17 M/s, Resolution: 1920x1080
-Name: 河南卫视, URL: http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 88 ms, Speed: 1.09 M/s, Resolution: None
-Name: 山东卫视, URL: http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 88 ms, Speed: 1.09 M/s, Resolution: None
-Name: 山西卫视, URL: http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 87 ms, Speed: 1.14 M/s, Resolution: None
-Name: 陕西卫视, URL: http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 85 ms, Speed: 1.12 M/s, Resolution: None
-Name: 七彩戏剧, URL: http://139.196.151.191:2051/rtp/239.45.3.61:5140, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 阿里云BGP数据中心, Date: None, Delay: 2376 ms, Speed: 0.07 M/s, Resolution: None
-Name: 上海外语, URL: http://139.196.151.191/rtp/239.45.1.127:5140, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 阿里云BGP数据中心, Date: None, Delay: 2376 ms, Speed: 0.07 M/s, Resolution: None
-Name: 上海第一财经, URL: https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 117 ms, Speed: 0.93 M/s, Resolution: None
-Name: 东方财经, URL: http://115.150.63.77:9902/tsfile/live/1042_1.m3u8, IPv_Type: ipv4, Location: 中国-江西-赣州, ISP: 电信, Date: None, Delay: 10571 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: 东方财经, URL: http://139.196.151.191:2051/rtp/239.45.1.119:5140, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 阿里云BGP数据中心, Date: None, Delay: 2376 ms, Speed: 0.07 M/s, Resolution: None
-Name: 东方财经, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东方财经, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东方财经, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东方财经, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东方财经, URL: rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 新闻综合, URL: https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8, IPv_Type: ipv4, Location: 中国-广东-东莞, ISP: 电信, Date: None, Delay: 2911 ms, Speed: 0.59 M/s, Resolution: 1920x1080
-Name: 欢笑剧场, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 3396 ms, Speed: 0.52 M/s, Resolution: None
+Name: CETV-1, URL: http://120.76.248.139/live/bfgd/4200000135.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 5198 ms, Speed: 0.61 M/s, Resolution: 1920x1080
+Name: 文化精品, URL: http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 553 ms, Speed: 7.78 M/s, Resolution: 1920x1080
+Name: 文化精品, URL: http://107.150.60.122/live/ysjp.m3u8, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 564 ms, Speed: 7.60 M/s, Resolution: 1920x1080
+Name: 央视台球, URL: http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1061 ms, Speed: 4.50 M/s, Resolution: 1920x1080
+Name: 央视台球, URL: https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 921 ms, Speed: 0.72 M/s, Resolution: 1280x720
+Name: 央视台球, URL: https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 941 ms, Speed: 0.69 M/s, Resolution: 1280x720
+Name: 央视台球, URL: http://dassby.qqff.top:99/live/央视台球/index.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 联通, Date: None, Delay: 10864 ms, Speed: 0.04 M/s, Resolution: 1920x1080
+Name: 央视台球, URL: http://183.11.239.36:808/hls/73/index.m3u8, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10113 ms, Speed: 0.03 M/s, Resolution: 1920x1080
+Name: 央视台球, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10012 ms, Speed: 0.00 M/s, Resolution: None
+Name: 央视台球, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10012 ms, Speed: 0.00 M/s, Resolution: None
+Name: 央视台球, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10013 ms, Speed: 0.00 M/s, Resolution: None
+Name: 央视台球, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10010 ms, Speed: 0.00 M/s, Resolution: None
+Name: 风云音乐, URL: http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 571 ms, Speed: 8.07 M/s, Resolution: 1920x1080
+Name: 第一剧场, URL: http://120.198.95.220:9901/tsfile/live/1071_1.m3u8, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 669 ms, Speed: 0.02 M/s, Resolution: 1920x1080
+Name: 风云剧场, URL: http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 777 ms, Speed: 5.74 M/s, Resolution: 1920x1080
+Name: 怀旧剧场, URL: http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 535 ms, Speed: 7.80 M/s, Resolution: 1920x1080
+Name: 女性时尚, URL: http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 573 ms, Speed: 7.98 M/s, Resolution: 1920x1080
+Name: 女性时尚, URL: http://120.76.248.139/live/bfgd/4200000176.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 3560 ms, Speed: 0.70 M/s, Resolution: 1280x720
+Name: 女性时尚, URL: http://dassby.qqff.top:99/live/女性时尚/index.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 联通, Date: None, Delay: 10827 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: 高尔夫网球, URL: http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 738 ms, Speed: 6.05 M/s, Resolution: 1920x1080
+Name: 高尔夫网球, URL: http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 联通, Date: None, Delay: 10604 ms, Speed: 0.16 M/s, Resolution: 1920x1080
+Name: 高尔夫网球, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高尔夫网球, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 高尔夫网球, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 电视指南, URL: http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 692 ms, Speed: 7.46 M/s, Resolution: 1920x1080
+Name: 电视指南, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 电视指南, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 电视指南, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 世界地理, URL: http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 486 ms, Speed: 6.80 M/s, Resolution: 1920x1080
+Name: 兵器科技, URL: http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 538 ms, Speed: 7.26 M/s, Resolution: 1920x1080
+Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 18 ms, Speed: 5.25 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 18 ms, Speed: 5.60 M/s, Resolution: None
+Name: 河南卫视, URL: http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 18 ms, Speed: 5.48 M/s, Resolution: None
+Name: 山东卫视, URL: http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 18 ms, Speed: 5.30 M/s, Resolution: None
+Name: 山西卫视, URL: http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 17 ms, Speed: 5.83 M/s, Resolution: None
+Name: 陕西卫视, URL: http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 19 ms, Speed: 4.59 M/s, Resolution: None
+Name: 上海第一财经, URL: https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 26 ms, Speed: 4.19 M/s, Resolution: None
+Name: 新闻综合, URL: https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8, IPv_Type: ipv4, Location: 中国-广东-东莞, ISP: 电信, Date: None, Delay: 2295 ms, Speed: 0.59 M/s, Resolution: 1920x1080
+Name: 欢笑剧场, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
 Name: 欢笑剧场, URL: rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001, IPv_Type: ipv4, Location: 中国-重庆-重庆, ISP: 联通, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 法治天地, URL: http://dassby.qqff.top:99/live/法治天地/index.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 联通, Date: None, Delay: 10345 ms, Speed: 0.05 M/s, Resolution: 1920x1080
-Name: 法治天地, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 法治天地, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10008 ms, Speed: 0.00 M/s, Resolution: None
-Name: 法治天地, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10008 ms, Speed: 0.00 M/s, Resolution: None
-Name: 法治天地, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
+Name: 法治天地, URL: http://dassby.qqff.top:99/live/法治天地/index.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 联通, Date: None, Delay: 10128 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: 法治天地, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
+Name: 法治天地, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
+Name: 法治天地, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 法治天地, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
 Name: 法治天地, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
 Name: 法治天地, URL: rtsp://115.153.233.154/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
 Name: 法治天地, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
 Name: 法治天地, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221225607/iptv7994.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 第一财经, URL: http://a1live.livecdn.yicai.com/live/radio_tv.m3u8, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 690 ms, Speed: 0.07 M/s, Resolution: None
-Name: 都市剧场, URL: https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 117 ms, Speed: 0.93 M/s, Resolution: None
-Name: 明珠台, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=23, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 腾讯云, Date: None, Delay: 344 ms, Speed: 1.69 M/s, Resolution: 840x480
-Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd, IPv_Type: ipv6, Location: 美国, ISP: Amazon, Date: None, Delay: 270 ms, Speed: 30.55 M/s, Resolution: 1920x1080
+Name: 第一财经, URL: http://a1live.livecdn.yicai.com/live/radio_tv.m3u8, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 527 ms, Speed: 0.07 M/s, Resolution: None
+Name: 都市剧场, URL: https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 25 ms, Speed: 4.49 M/s, Resolution: None
+Name: 明珠台, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=23, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 腾讯云, Date: None, Delay: 64 ms, Speed: 5.10 M/s, Resolution: 840x480
+Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd, IPv_Type: ipv6, Location: 美国, ISP: Amazon, Date: None, Delay: 75 ms, Speed: 32.78 M/s, Resolution: 1920x1080
 Name: 纬来育乐, URL: rtmp://9hv9.mine.nu/sat/tv701, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
 Name: 纬来育乐, URL: rtmp://60.248.77.83/sat/tv701, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
 Name: 纬来育乐, URL: rtmp://f13h.mine.nu/sat/tv701, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 纬来育乐, URL: rtmp://116.93.98.236/sat/tv701.flv, IPv_Type: ipv4, Location: 菲律宾, ISP: , Date: None, Delay: 5053 ms, Speed: 0.00 M/s, Resolution: None
-Name: Viutv, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=686, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 腾讯云, Date: None, Delay: 382 ms, Speed: 1.17 M/s, Resolution: 840x480
-Name: 三立台湾, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 腾讯云, Date: None, Delay: 163 ms, Speed: 0.55 M/s, Resolution: 1280x720
-Name: 无线新闻, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=21, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 腾讯云, Date: None, Delay: 344 ms, Speed: 1.68 M/s, Resolution: 840x480
-Name: 无线新闻, URL: https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 3070 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 无线新闻, URL: http://cdn9.163189.xyz/smt1.1.php?id=inews_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 10856 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 靖天映画, URL: http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 144 ms, Speed: 0.00 M/s, Resolution: None
-Name: 靖天映画, URL: http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 416 ms, Speed: 0.00 M/s, Resolution: None
-Name: 靖天映画, URL: http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 410 ms, Speed: 0.00 M/s, Resolution: None
-Name: 靖天戏剧, URL: http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 142 ms, Speed: 0.00 M/s, Resolution: None
-Name: 靖天戏剧, URL: http://nmk.ioapk.com:5050/4gtv-4gtv058/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 405 ms, Speed: 0.00 M/s, Resolution: None
-Name: 靖天戏剧, URL: http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 384 ms, Speed: 0.00 M/s, Resolution: None
-Name: 天映经典, URL: http://free.cnlive.club/channel/n7e49c99a.m3u8, IPv_Type: ipv4, Location: 美国-内华达州-克拉克, ISP: BuyVM, Date: None, Delay: 1091 ms, Speed: 0.19 M/s, Resolution: 1920x1080
-Name: 龙祥电影, URL: http://free.cnlive.club/channel/67548a4f.m3u8, IPv_Type: ipv4, Location: 美国-内华达州-克拉克, ISP: BuyVM, Date: None, Delay: 328 ms, Speed: 0.70 M/s, Resolution: 1920x1080
-Name: 东森洋片, URL: http://free.cnlive.club/channel/n7160b4.m3u8, IPv_Type: ipv4, Location: 美国-内华达州-克拉克, ISP: BuyVM, Date: None, Delay: 630 ms, Speed: 0.34 M/s, Resolution: 1280x720
-Name: 劲爆体育, URL: https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9e078ef10c1a9f8930d51d7f453315d3577b613eac76898b1e0965789f7010cd3f8a1bca3167ef6e625cb77fc2c575eec35c8d07aaff61dc4b79f75fc67ef667, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: 41 ms, Speed: 10.21 M/s, Resolution: 1920x1080
+Name: 纬来育乐, URL: rtmp://116.93.98.236/sat/tv701.flv, IPv_Type: ipv4, Location: 菲律宾, ISP: , Date: None, Delay: 5057 ms, Speed: 0.00 M/s, Resolution: None
+Name: Viutv, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=686, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 腾讯云, Date: None, Delay: 62 ms, Speed: 5.50 M/s, Resolution: 840x480
+Name: 三立台湾, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 腾讯云, Date: None, Delay: 214 ms, Speed: 0.42 M/s, Resolution: 1280x720
+Name: 无线新闻, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=21, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 腾讯云, Date: None, Delay: 62 ms, Speed: 5.75 M/s, Resolution: 840x480
+Name: 无线新闻, URL: https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 3100 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 无线新闻, URL: http://cdn9.163189.xyz/smt1.1.php?id=inews_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 10312 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 靖天映画, URL: http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 204 ms, Speed: 0.00 M/s, Resolution: None
+Name: 靖天映画, URL: http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 486 ms, Speed: 0.00 M/s, Resolution: None
+Name: 靖天映画, URL: http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 478 ms, Speed: 0.00 M/s, Resolution: None
+Name: 靖天戏剧, URL: http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5 ms, Speed: 0.00 M/s, Resolution: None
+Name: 靖天戏剧, URL: http://nmk.ioapk.com:5050/4gtv-4gtv058/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 486 ms, Speed: 0.00 M/s, Resolution: None
+Name: 靖天戏剧, URL: http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 472 ms, Speed: 0.00 M/s, Resolution: None
+Name: 天映经典, URL: http://free.cnlive.club/channel/n7e49c99a.m3u8, IPv_Type: ipv4, Location: 美国-内华达州-克拉克, ISP: BuyVM, Date: None, Delay: 445 ms, Speed: 0.47 M/s, Resolution: 1920x1080
+Name: 龙祥电影, URL: http://free.cnlive.club/channel/67548a4f.m3u8, IPv_Type: ipv4, Location: 美国-内华达州-克拉克, ISP: BuyVM, Date: None, Delay: 488 ms, Speed: 0.46 M/s, Resolution: 1920x1080
+Name: 东森洋片, URL: http://free.cnlive.club/channel/n7160b4.m3u8, IPv_Type: ipv4, Location: 美国-内华达州-克拉克, ISP: BuyVM, Date: None, Delay: 429 ms, Speed: 0.49 M/s, Resolution: 1280x720
 Name: 爱体育, URL: rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃-金昌, ISP: 联通, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃, ISP: 联通, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil, IPv_Type: ipv4, Location: 中国-江西, ISP: 联通, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://60.13.39.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃-天水, ISP: 联通, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃, ISP: 联通, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil, IPv_Type: ipv4, Location: 中国-江西, ISP: 联通, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://60.13.39.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃-天水, ISP: 联通, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
 Name: 爱体育, URL: rtsp://60.13.23.179/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃-兰州, ISP: 联通, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://221.7.61.147/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃-白银, ISP: 联通, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://221.7.61.147/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃-白银, ISP: 联通, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
 Name: 爱体育, URL: rtsp://116.176.26.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃, ISP: 联通, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://60.13.39.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃-天水, ISP: 联通, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221227044/86502115.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221227044/86502115.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://60.13.39.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil, IPv_Type: ipv4, Location: 中国-甘肃-天水, ISP: 联通, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221227044/86502115.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221227044/86502115.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
 Name: 爱体育, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱体育, URL: rtsp://115.153.233.154/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 精品体育, URL: https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1533 ms, Speed: 0.44 M/s, Resolution: 1920x1080
-Name: 精品体育, URL: https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1617 ms, Speed: 0.42 M/s, Resolution: 1920x1080
-Name: 精品体育, URL: https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1620 ms, Speed: 0.42 M/s, Resolution: 1920x1080
-Name: 天津体育, URL: http://ak.cj022.com:10080/hls/6/index.m3u8, IPv_Type: ipv4, Location: 中国-天津-天津, ISP: 联通, Date: None, Delay: 10623 ms, Speed: 0.37 M/s, Resolution: 1920x1080
-Name: 睛彩篮球, URL: http://drive.mxmy.net:8888/udp/239.3.1.126:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 400 ms, Speed: 0.09 M/s, Resolution: 1920x1080
-Name: 少儿动画, URL: http://124.116.183.146:9901/tsfile/live/0137_1.m3u8, IPv_Type: ipv4, Location: 中国-陕西-咸阳, ISP: 电信, Date: None, Delay: 10059 ms, Speed: 0.04 M/s, Resolution: 720x576
-Name: 少儿动画, URL: rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil, IPv_Type: ipv4, Location: 中国-江西, ISP: 联通, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱体育, URL: rtsp://115.153.233.154/PLTV/88888888/224/3221227012/86440946.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
+Name: 精品体育, URL: https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 912 ms, Speed: 0.71 M/s, Resolution: 1920x1080
+Name: 精品体育, URL: https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 910 ms, Speed: 0.71 M/s, Resolution: 1920x1080
+Name: 精品体育, URL: https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 951 ms, Speed: 0.69 M/s, Resolution: 1920x1080
+Name: 天津体育, URL: http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 477 ms, Speed: 5.30 M/s, Resolution: 1280x720
+Name: 天津体育, URL: http://ak.cj022.com:10080/hls/6/index.m3u8, IPv_Type: ipv4, Location: 中国-天津-天津, ISP: 联通, Date: None, Delay: 5701 ms, Speed: 1.28 M/s, Resolution: 1920x1080
+Name: 睛彩篮球, URL: http://drive.mxmy.net:8888/udp/239.3.1.126:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 512 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: 少儿动画, URL: http://124.116.183.146:9901/tsfile/live/0137_1.m3u8, IPv_Type: ipv4, Location: 中国-陕西-咸阳, ISP: 电信, Date: None, Delay: 10130 ms, Speed: 0.12 M/s, Resolution: 720x576
+Name: 少儿动画, URL: rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil, IPv_Type: ipv4, Location: 中国-江西, ISP: 联通, Date: None, Delay: 10008 ms, Speed: 0.00 M/s, Resolution: None
 Name: 少儿动画, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 少儿动画, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10008 ms, Speed: 0.00 M/s, Resolution: None
-Name: 少儿动画, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 少儿动画, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
+Name: 少儿动画, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 少儿动画, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 少儿动画, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
 Name: 少儿动画, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 少儿动画, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
+Name: 少儿动画, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
 Name: 少儿动画, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 少儿动画, URL: rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 卡酷动画, URL: http://218.13.170.98:9901/tsfile/live/1021_1.m3u8, IPv_Type: ipv4, Location: 中国-广东-佛山, ISP: 电信, Date: None, Delay: 10244 ms, Speed: 0.16 M/s, Resolution: 720x576
+Name: 少儿动画, URL: rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10006 ms, Speed: 0.00 M/s, Resolution: None
+Name: 卡酷动画, URL: http://218.13.170.98:9901/tsfile/live/1021_1.m3u8, IPv_Type: ipv4, Location: 中国-广东-佛山, ISP: 电信, Date: None, Delay: 10753 ms, Speed: 0.12 M/s, Resolution: 720x576
+Name: 新动漫, URL: http://dassby.qqff.top:99/live/新动漫/index.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 联通, Date: None, Delay: 10783 ms, Speed: 0.03 M/s, Resolution: 1920x1080
 Name: 新动漫, URL: rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 新动漫, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 新动漫, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 新动漫, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 新动漫, URL: rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 新动漫, URL: rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10009 ms, Speed: 0.00 M/s, Resolution: None
+Name: 新动漫, URL: rtsp://115.153.212.72/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
 Name: 新动漫, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 新动漫, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 新动漫, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
 Name: 新动漫, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
 Name: 新动漫, URL: rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 火影忍者, URL: https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8, IPv_Type: ipv4, Location: 中国-湖南-长沙, ISP: 湖南有线电视网络(集团)股份有限公司广东联通节点, Date: None, Delay: 446 ms, Speed: 5.30 M/s, Resolution: 1920x1032
-Name: 海绵宝宝, URL: https://live.metshop.top/douyu/3949681, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 313 ms, Speed: 4.99 M/s, Resolution: 1920x1080
-Name: 中华小当家, URL: https://live.metshop.top/huya/11342413, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 349 ms, Speed: 0.18 M/s, Resolution: 1920x1080
-Name: 中华小当家, URL: https://live.ottiptv.cc/huya/11342413, IPv_Type: ipv6, Location: 美国-新泽西州-巴赛克, ISP: DigitalOcean, Date: None, Delay: 626 ms, Speed: 0.17 M/s, Resolution: 640x432
-Name: 中华小当家, URL: http://61.221.215.25:8800/hls/40/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 287 ms, Speed: 0.00 M/s, Resolution: None
-Name: 经典动漫, URL: https://www.goodiptv.club/yy/22777075, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 22 ms, Speed: 20.97 M/s, Resolution: 1920x1080
-Name: 漫画解说, URL: https://www.goodiptv.club/douyu/5907076, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1264 ms, Speed: 0.20 M/s, Resolution: 1920x1080
-Name: 游戏风云, URL: https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: 19 ms, Speed: 24.82 M/s, Resolution: 1920x1080
-Name: 游戏风云, URL: https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: 28 ms, Speed: 20.76 M/s, Resolution: 1920x1080
-Name: 音乐现场, URL: http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: 网宿科技CDN节点, Date: None, Delay: 86 ms, Speed: 1.13 M/s, Resolution: None
-Name: 音乐现场, URL: https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: 网宿科技CDN节点, Date: None, Delay: 118 ms, Speed: 0.94 M/s, Resolution: None
-Name: 潮流音乐, URL: http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 113 ms, Speed: 1.49 M/s, Resolution: None
-Name: 笑傲江湖, URL: https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4, IPv_Type: ipv4, Location: 美国-科罗拉多州-布鲁姆菲尔德, ISP: Level3, Date: None, Delay: 30 ms, Speed: 156.64 M/s, Resolution: 720x384
-Name: 西游记, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 腾讯云, Date: None, Delay: 730 ms, Speed: 2.15 M/s, Resolution: 704x534
+Name: 七龙珠, URL: https://live.ottiptv.cc/huya/11601966, IPv_Type: ipv6, Location: 美国-新泽西州-巴赛克, ISP: DigitalOcean, Date: None, Delay: 566 ms, Speed: 0.28 M/s, Resolution: 960x720
+Name: 七龙珠, URL: https://live.metshop.top/huya/11601966, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 613 ms, Speed: 0.28 M/s, Resolution: 960x720
+Name: 火影忍者, URL: https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8, IPv_Type: ipv4, Location: 中国-湖南-长沙, ISP: 湖南有线电视网络(集团)股份有限公司广东联通节点, Date: None, Delay: 1104 ms, Speed: 1.70 M/s, Resolution: 1920x1032
+Name: 海绵宝宝, URL: https://live.metshop.top/douyu/3949681, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 68 ms, Speed: 6.15 M/s, Resolution: 1920x1080
+Name: 中华小当家, URL: https://live.metshop.top/huya/11342413, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 598 ms, Speed: 0.17 M/s, Resolution: 1920x1080
+Name: 漫画解说, URL: https://www.goodiptv.club/douyu/5907076, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1092 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 游戏风云, URL: https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: 44 ms, Speed: 9.35 M/s, Resolution: 1920x1080
+Name: 游戏风云, URL: https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: 48 ms, Speed: 8.85 M/s, Resolution: 1920x1080
+Name: 音乐现场, URL: http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: 网宿科技CDN节点, Date: None, Delay: 17 ms, Speed: 6.02 M/s, Resolution: None
+Name: 音乐现场, URL: https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: 网宿科技CDN节点, Date: None, Delay: 27 ms, Speed: 4.34 M/s, Resolution: None
+Name: 潮流音乐, URL: http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 239 ms, Speed: 1.61 M/s, Resolution: None
+Name: 笑傲江湖, URL: https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4, IPv_Type: ipv4, Location: 美国-科罗拉多州-布鲁姆菲尔德, ISP: Level3, Date: None, Delay: 8 ms, Speed: 192.41 M/s, Resolution: 720x384
+Name: 西游记, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 腾讯云, Date: None, Delay: 481 ms, Speed: 6.33 M/s, Resolution: 704x534
