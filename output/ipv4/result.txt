@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-21 07:02:46,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-07-21 19:53:10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -14,12 +14,19 @@ CETV-1,http://120.76.248.139/live/bfgd/4200000135.m3u8
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
+广东卫视,http://125.43.247.15:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东南卫视,http://125.43.247.15:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://125.43.247.15:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
@@ -104,13 +111,14 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
+金鹰卡通,http://125.43.247.15:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
