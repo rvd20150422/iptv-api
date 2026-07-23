@@ -1,16 +1,13 @@
 🕘️更新时间,#genre#
-2026-07-23 07:06:11,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-07-23 19:56:25,http://125.42.151.217:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-3,http://125.42.151.217:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://125.42.151.217:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV-1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+CCTV-13,http://125.42.151.217:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://125.42.151.217:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://120.76.248.139/live/bfgd/4200000135.m3u8
-CETV-1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
-CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 
 💰央视付费频道,#genre#
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
@@ -20,27 +17,28 @@ CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-高尔夫网球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
-高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
-高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
-电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
-电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
+广东卫视,http://125.42.151.217:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://125.42.151.53:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东南卫视,http://125.42.151.53:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://125.42.151.217:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://125.42.151.217:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
+天津卫视,http://125.42.151.53:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://125.42.151.217:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️上海频道,#genre#
+上海外语,http://139.196.151.191/rtp/239.45.1.127:5140
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
@@ -51,7 +49,6 @@ CETV-1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
-欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
 法治天地,http://dassby.qqff.top:99/live/法治天地/index.m3u8
 法治天地,rtsp://115.153.245.70/PLTV/88888888/224/3221225607/iptv7994.smil
 法治天地,rtsp://115.153.254.81/PLTV/88888888/224/3221225607/iptv7994.smil
@@ -102,9 +99,10 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 爱体育,rtsp://60.13.39.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 
@@ -129,11 +127,13 @@ Viutv,http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
+金鹰卡通,http://125.42.151.53:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
+经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
